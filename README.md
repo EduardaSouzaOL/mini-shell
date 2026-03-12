@@ -29,10 +29,7 @@ cat arquivo.txt
 
 ### 🐧 Linux / WSL (Ubuntu)
 
-```bash
-sudo apt update
-sudo apt install build-essential valgrind
-```
+
 
 ### Como reproduzir (compilar, executar, testar e validar)
 
