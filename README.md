@@ -22,18 +22,6 @@
 
 ---
 
-## ✨ Funcionalidades
-
-### Execução de Comandos do Sistema
-Permite executar qualquer comando disponível no `PATH` do sistema Linux:
-
-```bash
-ls
-pwd
-mkdir nova_pasta
-cat arquivo.txt
-grep "texto" arquivo.txt
-```
 
 ### Comandos Internos (Built-ins)
 O mesoShell implementa os seguintes comandos nativos, executados diretamente pelo shell sem criação de processo filho:
